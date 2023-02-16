@@ -1,5 +1,24 @@
 Name: xyz
 Qual: xyz
-CTC: ??????
-ex, ECT:??????
-Exp:????
+CTC: 20Lk
+expected ctc: 30lk
+Exp: 15 
+Willing to relocate : yes
+Name: xyz
+Qual: xyz
+CTC: 20Lk
+expected ctc: 30lk
+Exp: 15 
+Willing to relocate : yes
+Name: xyz
+Qual: xyz
+CTC: 20Lk
+expected ctc: 30lk
+Exp: 15 
+Willing to relocate : yes
+Name: xyz
+Qual: xyz
+CTC: 20Lk
+expected ctc: 30lk
+Exp: 15 
+Willing to relocate : yes
